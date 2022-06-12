@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "/"
+  from = "/api/checkout/pub/regions"
   to = "https://mercado.carrefour.com.br"
   status = 200
+  force = true
