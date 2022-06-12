@@ -39,7 +39,7 @@ function Panel({ updateAt, onChange, onChangeCep, data, sellers, getProducts, ca
     {
       dataSellers.splice(0, 0, {"id": "0", "name": "< Selecione >", "logo": ""})
     }
-    //console.log('defined: ' + JSON.stringify( sellers )  );
+    //console.log( 'defined: ' + JSON.stringify( sellers )  );
   } 
   
 
