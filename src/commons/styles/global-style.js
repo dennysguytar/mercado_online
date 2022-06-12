@@ -124,7 +124,7 @@ const globalStyle = createGlobalStyle`
   .img-product
   {
     min-width: 0px;
-    max-height: 100%;
+    max-height: 200px;
     height: auto;
     max-width: 100%;
     width: 100%;
