@@ -1,1 +1,5 @@
-/api/*  https://mercado.carrefour.com.br/:splat  200
+[[redirects]]
+  from = "/"
+  to = "https://mercado.carrefour.com.br/"
+  status = 200
+  force = true
