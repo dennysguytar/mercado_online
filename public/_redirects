@@ -1,0 +1,2 @@
+/api/* https://mercado.carrefour.com.br/:splat 200
+/* /index.html 200
