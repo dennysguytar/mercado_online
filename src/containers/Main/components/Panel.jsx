@@ -119,7 +119,7 @@ function Panel({ updateAt, onChange, onChangeCep, data, sellers, getProducts, ca
   {
     const text = JSON.stringify(target.className);
     
-    if ( text.indexOf("MuiModal-backdrop") > -1 )
+    if ( text.indexOf("MuiBackdrop-root") > -1 )
     {
       setShoppingCart(false);
     }
