@@ -1,5 +1,1 @@
-[[redirects]]
-  from = "/"
-  to = "https://mercado.carrefour.com.br/"
-  status = 200
-  force = true
+/*  https://mercado.carrefour.com.br/  200
