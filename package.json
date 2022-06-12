@@ -2,7 +2,7 @@
   "name": "supermercado-online-dio",
   "version": "0.1.0",
   "private": true,
-  "proxy": "/api/*  https://mercado.carrefour.com.br/:splat  200",
+  "proxy": "https://mercado.carrefour.com.br",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
