@@ -8,14 +8,6 @@ const headers = {
     method: 'GET',
     mode: 'cors',
     cache: 'default',
-    /* headers: {
-        'X-Requested-With': 'XMLHttpRequest',
-        "Content-Type": "application/json",
-        'Access-Control-Allow-Credentials': 'true',
-        'Access-Control-Allow-Methods': 'GET,POST,OPTIONS,DELETE,PUT',
-        "X-VTEX-API-AppKey": "vtexappkey-carrefourbr-PZLYPS",
-        "X-VTEX-API-AppToken": "UTARJONVBFAYJEOZGNAUZIRIFLMBNUVOOLWNTLIORNRCMGSIVEQFCTNNYOXYGHPUYEVLDHUVPKUHHBDOZPBKMOKGRITGDBXVQBDESIDQJWDANEZSIQVGSCZVEVPLCJVC"
-    } */
 }
 
 async function getSellers(cep) {
